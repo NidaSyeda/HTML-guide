@@ -25,5 +25,5 @@ For example:
 <p>This is my first webpage.</p>
 
 
-<!-- <h1> defines a heading --!>
-<!-- <p> defines a paragraph --!>    
+<h1> defines a heading 
+<p> defines a paragraph    
